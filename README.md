@@ -10,3 +10,6 @@ Search
 
 Chart teamperature
 
+Hình ảnh đề mo trong folder hinh_anh_demo
+
+
